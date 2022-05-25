@@ -6,9 +6,9 @@ import java.util.function.Consumer;
 
 public class LambdaClass {
     public static void main(String[] args) {
-        List<Integer> arrList = Arrays.asList(1,2,3,4,7,5,0);
+        List<Integer> arrList = Arrays.asList(1, 2, 3, 4, 7, 5, 0);
 
-       // arrList.forEach(x-> System.out.println(x));
+        // arrList.forEach(x-> System.out.println(x));
 
         Consumer<Integer> method = n -> System.out.println(n);
         arrList.forEach(method);
@@ -19,11 +19,12 @@ public class LambdaClass {
 
         StringFunction ask = (x) -> x + "123";
 
-        formatString("hello ",concatString );
-        formatString("hello ",ask );
+        formatString("hello ", concatString);
+        formatString("hello ", ask);
 
     }
-    public static void formatString(String str, StringFunction format){
+
+    public static void formatString(String str, StringFunction format) {
         String result = format.run(str);
         System.out.println(result);
 

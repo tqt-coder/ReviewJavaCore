@@ -4,6 +4,9 @@ import java.util.stream.IntStream;
 
 public class MainThread {
     public static void main(String[] args) throws InterruptedException {
+
+        // Thread : thread, daemon thread
+        // status: runable, waiting, dead thread
         IntStream.rangeClosed(0, 2).boxed().forEach(x->{
                 System.out.println("Main thread running " + ++x);
             try {
