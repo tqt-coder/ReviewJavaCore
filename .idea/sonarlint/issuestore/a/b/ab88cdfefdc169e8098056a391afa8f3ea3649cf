@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–İŒ²şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó®
+R
+java:S2209"5Change this instance-reference to a static reference.(Ó®8Ãè©0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èˆæùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òËÁ¢ûÿÿÿÿ
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8Çî©0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Çî©0
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8Çî©0
