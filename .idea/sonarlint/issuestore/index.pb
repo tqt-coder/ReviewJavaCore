@@ -9,3 +9,5 @@ N
 	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
 J
 src/Thread/MainThread.java,7\0\70c40926da312c65286d4b5abb9f39d6288ff0fa
+K
+src/Stream/StreamStudy.java,d\f\df58f55770f56e677077ad2b9127f3a0b0e6da42

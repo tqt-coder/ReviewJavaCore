@@ -1,0 +1,15 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ªˆÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­4
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë ê”
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Æ¸¾êÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¸¾êÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»Òóœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸƒÖÀûÿÿÿÿ
+S
+java:S1481"=Remove this unused "doubleSummaryStatistics2" local variable.(œøùØ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(óŸı°
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(™¤Ç³
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Óµ¾Â
